@@ -12,4 +12,5 @@ The project utilised AWS Elastic Container Registry (ECR), Elastic Kubernetes Se
 - A kubernetes yaml file was configured to deploy the web app with Amazon EKS
 
 ### Wep Application Deployment 
-![k8s-app](https://github.com/JonesKwameOsei/EKS-Github-Actions/assets/81886509/edeffcb3-643a-4651-9be5-e531629630a6)
+![k8s-app](https://github.com/JonesKwameOsei/EKS-Github-Actions/assets/81886509/2542433b-9318-4c68-bd4e-6660a95136d9)
+
